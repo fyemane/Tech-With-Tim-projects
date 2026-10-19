@@ -1,5 +1,8 @@
 # Tech With Tim — Python Projects
 
+[Project portfolio](https://fyemane.github.io/projects.html) · [About me, experience & qualifications](https://fyemane.github.io/)
+
+
 My collection of Python projects completed while following [Tech With Tim's tutorials](https://www.techwithtim.net/). These exercises helped me practise object-oriented programming, game loops, graphics, search algorithms, and introductory machine learning.
 
 The repository brings together Pygame games, a NEAT-based Flappy Bird experiment, Sudoku and checkers exercises, and NumPy/OpenCV examples. Each folder is a separate project with its own entry point and assets.
